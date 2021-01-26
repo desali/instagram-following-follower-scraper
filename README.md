@@ -1,1 +1,1 @@
-# instagram-following-follower-scraper
+Script for parsing instagram user's followings and followers. Need to install requirements in requirements.txt. First need to create config.py like config_example.py then create data.txt where every line must be instagram usernames. Then run main.py and script will create export folder with following and follower data for each user in data.txt
