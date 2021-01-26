@@ -129,6 +129,8 @@ dmypy.json
 .pyre/
 
 data.txt
+data_done.txt
 config.py
 .idea
-
+sessions
+export
